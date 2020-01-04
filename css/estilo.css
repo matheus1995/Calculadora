@@ -1,0 +1,78 @@
+
+ .c1 {
+     width: 480px;
+     margin: 20px auto 0;
+}
+ .calc {
+     width: 385px;
+     height: auto;
+     padding: 10px 0;
+     margin: auto;
+     background: #242424;
+     border: #000 2px solid;
+     overflow: hidden;
+     text-align: center;
+}
+ .visor {
+     width: 360px;
+     height: 55px;
+     margin: 0px auto 3px;
+     padding: 15px 20px;
+     color: #000000;
+     text-align: right;
+     font-size: 3em;
+     letter-spacing: 3px;
+     overflow: hidden;
+     background-color: #d8d8d8;
+     font-family: sans-serif;
+}
+ .botoes {
+     padding: 0;
+     width: 423px;
+     margin: auto;
+     overflow: hidden;
+     list-style: none;
+}
+ .botoes li {
+     display: inline;
+     float: left;
+     padding: 0px;
+     margin-right: 2px;
+     margin-bottom: 2px;
+}
+ .botoes a {
+     display: block;
+     width: 95px;
+     height: 68px;
+     padding: 18px 0 12px;
+     color: #000 !important;
+     font-size: 1.6em;
+     font-weight: 500;
+     font-family: sans-serif;
+     letter-spacing: -2px;
+     background-color: #d6d6d6;
+     -webkit-border-radius: 1px;
+     -moz-border-radius: 1px;
+     text-align: center;
+     text-decoration: none;
+     box-sizing: border-box;
+     cursor: pointer;
+}
+ .botoes a:hover {
+     background-color: #afafaf !important;
+}
+ .botoes a:active {
+     background-color: #bbbbbb !important;
+}
+ .text-center {
+     text-align: center;
+}
+ .mt-3 {
+     margin-top: 1em;
+}
+ span {
+     font-family: Montserrat;
+}
+ .destaque {
+     background-color: #de8d3c !important;
+}
