@@ -76,3 +76,13 @@
  .destaque {
      background-color: #de8d3c !important;
 }
+
+H1 {
+    text-align: center;
+    font-style: italic;
+    color: blue;
+}
+
+body {
+    background-color: black;
+}
